@@ -1,5 +1,5 @@
 ===================
-macdown-site
+macdown-site - an amaazig project
 ===================
 
 This is the source code of the official site for MacDown_. Please click here_
